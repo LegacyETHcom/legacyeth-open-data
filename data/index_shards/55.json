@@ -8767,35 +8767,13 @@
     "thedao": 529.4985148
   },
   "0x55fcb057b41a5f8599d70e411957fd259bdc4870": {
-    "thedao": 37.44545455
-  },
-  "0x55e5f1e33b67ba14ffb98edfe65115ca8487d878": {
-    "thedao": 6.0
-  },
-  "0x55da456862755dea5a0f6e7add7d3c10c9009a40": {
-    "thedao": 1.60578159
-  },
-  "0x550ac46a8d9fab090b6978fb01895e294e3a5f9b": {
-    "thedao": 1.2
+    "thedao": 37.445454545454545
   },
   "0x559a5b34495f6ddfcc3db34ebb5dc1c7bc049eb8": {
-    "thedao": {
-      "e": 1.0,
-      "p": true,
-      "pr": "unverified_contract"
-    }
+    "thedao": 1.0
   },
   "0x556b5712c2a7cc5506fbfa785b52536fb8243765": {
     "thedao": 0.85
-  },
-  "0x55fc672ec844fd1194582a784b8367bc04c51514": {
-    "thedao": 0.52656581
-  },
-  "0x558e56d9d8b3ca75a2c50388a2ed8a5cfdf8a5b2": {
-    "thedao": 0.5
-  },
-  "0x5592fc77f000f282bc685c3f577856f3b857d5ac": {
-    "thedao": 0.21111888
   },
   "0x551361c28ee5351b018b50a8cc90ef5bc952bd0f": {
     "thedao": 0.07
@@ -8807,10 +8785,10 @@
     "thedao": 0.00351818
   },
   "0x55254a90a68f5e5d5befe38ef39dd8b78030ee9b": {
-    "thedao": 0.00333333
+    "thedao": 0.003333333333333333
   },
   "0x554eb569d36b977a40eed4e1843d8b3a41dcf699": {
-    "thedao": 0.00053356
+    "thedao": 0.000533558285714285
   },
   "0x55d6ae4a67dfd7fe55eb319d519af5596317e756": {
     "thedao": 0.0004

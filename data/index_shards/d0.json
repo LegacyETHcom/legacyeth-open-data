@@ -10575,53 +10575,29 @@
   "0xd051c6aa29757e217410450da06e7e82a6a69445": {
     "th_token_sale": 0.2
   },
-  "0xd0d063f4d746639ea93d7b25f9e778aee1e570de": {
-    "thedao": 33.32892163
-  },
-  "0xd0d62c47ea60fb90a3639209bbfdd4d933991cc6": {
-    "thedao": 21.52081929
-  },
-  "0xd06468bad1a8d970e11c4179fb62c7ef3643c466": {
-    "thedao": 13.43707264
-  },
-  "0xd0f66dfcc5b5cd6bebb34c724eae275887b27eb3": {
-    "thedao": 11.41262666
-  },
   "0xd07523b44a272b9856a9f771558f044479bb55de": {
     "thedao": 3.33
-  },
-  "0xd0e02a4ed37b580648a668bcaf1cf5c67626b288": {
-    "thedao": 2.95337741
-  },
-  "0xd03cf03af02b902ef9c849343a5fce082384d868": {
-    "thedao": 2.0
-  },
-  "0xd078c8ca1a77cc52e4aa54c9f342d5fe2724bba7": {
-    "thedao": 1.22778881
   },
   "0xd024f06a8d80caaed49d6f9db500da4936c4d0b7": {
     "thedao": 1.0
   },
-  "0xd034199f323b1943649525b8717e2cb32efd27ef": {
-    "thedao": 0.53839096
-  },
   "0xd0e54c256a695573edb75c943b0db62231d6c9b9": {
-    "thedao": 0.1
+    "thedao": 0.1000000000000001
   },
   "0xd0e14cf2d708e308e82656944386bdc27728d0ae": {
-    "thedao": 0.06025641
+    "thedao": 0.06025641025641026
   },
   "0xd0c233f6e5f2e3935af422d152588d4b829bcc58": {
-    "thedao": 0.05010217
+    "thedao": 0.0501021729155396
   },
   "0xd0e27ab1a2addf5d18c8a7e6a6a9f5fe0b2f795a": {
-    "thedao": 0.00611736
+    "thedao": 0.006117360899969594
   },
   "0xd000df3b428a25572b3f26e20dcfc56fd171b472": {
-    "thedao": 0.00175278
+    "thedao": 0.001752779999995904
   },
   "0xd0bb73ae5be8da96863efbf4283b1215d9ad7242": {
-    "thedao": 0.0007619
+    "thedao": 0.000761904761904761
   },
   "0xd08c95c5d57af0a03337cca2d9c123bd32a0e182": {
     "tokemak_weth": {

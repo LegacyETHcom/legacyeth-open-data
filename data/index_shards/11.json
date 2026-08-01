@@ -35,7 +35,7 @@
       "tbw": "20580849353"
     },
     "tessera_sweep": 0.02423423,
-    "thedao": 0.73067138,
+    "thedao": 0.73067137797325,
     "tribe_redeemer": {
       "e": 0,
       "tkb": {
@@ -13903,35 +13903,10 @@
     "thedao": 493.0
   },
   "0x116106df95a500799a8eee754d3e7bbe22fd7f8b": {
-    "thedao": 85.48061266
-  },
-  "0x11d8fccf33a6652776770481d4750df0cd0d73cc": {
-    "thedao": 62.0
-  },
-  "0x117d29eec7c730c2138c19036753ea61019b9ea7": {
-    "thedao": 15.0
-  },
-  "0x115945b742997e4c792e0888853499e30d5a8b99": {
-    "thedao": 12.44296322
-  },
-  "0x1182526a83c2b5a333b7767861fa857a1b8e0a97": {
-    "thedao": 10.0
-  },
-  "0x11b922c16eeae94e2d3f2298b3b1e30926326eb0": {
-    "thedao": 6.66666667
+    "thedao": 85.4806126632
   },
   "0x11231559aae3f453fab80001ba45433885e67eec": {
-    "thedao": {
-      "e": 1.00126861,
-      "p": true,
-      "pr": "unverified_contract"
-    }
-  },
-  "0x11ec6e78d1ae1d13d0463c44ce1904c0eedbffa7": {
-    "thedao": 0.794
-  },
-  "0x11a7e3aa1ddb27d6b0e86fdaf327f7e08141c77e": {
-    "thedao": 0.71428571
+    "thedao": 1.0012686083
   },
   "0x117309881449d274ad1a1bcaf385d2f9696ad3d5": {
     "thedao": 0.109625
@@ -13943,22 +13918,22 @@
     "thedao": 0.041
   },
   "0x1139c6ddefade203f16cfdf5129dd2c963ffb31d": {
-    "thedao": 0.03834852
+    "thedao": 0.0383485167
   },
   "0x1149c44168755ba7520d5a503a97998c53c557a5": {
-    "thedao": 0.01061947
+    "thedao": 0.010619465599994
   },
   "0x11199a5717d28d378a5ec4e8ef70b84e8ae72f30": {
     "thedao": 0.01
   },
   "0x111aa7361287dcacfd9f9ec57fbebd6926faee64": {
-    "thedao": 0.00201776
+    "thedao": 0.002017764705796064
   },
   "0x11689fe379954563cacefb007311127428a86bd6": {
     "thedao": 0.0009
   },
   "0x11375fac4fb5ba57864e0323a8435744cc1c3bcc": {
-    "thedao": 0.00066667
+    "thedao": 0.000666666666666666
   },
   "0x1111777d97a92853892127b02bf32f560a3a8d28": {
     "tokemak_weth": 2.585e-05

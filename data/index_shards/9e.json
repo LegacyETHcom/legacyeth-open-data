@@ -10811,69 +10811,29 @@
   "0x9ec3aadc695cb59f76043a69cc2d63b1e85989af": {
     "thedao": 521.44946285
   },
-  "0x9e39c8ed0ab916e780dc4fcb31b767392ea68e64": {
-    "thedao": 11.656984
-  },
-  "0x9e561fa735f9dd4d949ca7629ec649a33871aaaa": {
-    "thedao": 6.99888576
-  },
-  "0x9e0761ec0cb264353fce292627798dc49c5a8114": {
-    "thedao": 5.0
-  },
-  "0x9ec9de692d2ba6a59cbc314514b5390b23f26efa": {
-    "thedao": 1.66666667
-  },
   "0x9e62da78c0643d5ccb94416078062203582ed662": {
-    "thedao": 1.14285714
+    "thedao": 1.1428571428571428
   },
   "0x9eea3a55e8bf649472fb0b0ddea242ae87cf1460": {
-    "thedao": {
-      "e": 1.0,
-      "p": true,
-      "pr": "unverified_contract"
-    }
+    "thedao": 1.0
   },
   "0x9e8802217cd3be31e3b33451e6cc5828f34ee75a": {
-    "thedao": 0.66666667
+    "thedao": 0.6666666666666666
   },
   "0x9e1f3a7a975701f92b94d3c8170f17ed9636b25e": {
     "thedao": 0.2199
   },
-  "0x9efa31cba4c0665e29fc975cf887aec98466afb8": {
-    "thedao": 0.1
-  },
-  "0x9e4e6c859db4bcef7fde10edc7df1f40f068fddf": {
-    "thedao": 0.095
-  },
-  "0x9e4569c5d8690ee52cf68e1a56bdcc317326ec50": {
-    "thedao": 0.01992529
-  },
   "0x9e607d77f1efc467df063cb381e5cbfa21e855a6": {
-    "thedao": 0.0091003
+    "thedao": 0.009100304166666582
   },
   "0x9e974e03d07299beaa3a98ba7c46d5f7a80899df": {
-    "thedao": 0.00835165
-  },
-  "0x9ec6d4d4f1caf9bb075958f40cd8c0ad24cb404b": {
-    "thedao": 0.001
+    "thedao": 0.00835164835164835
   },
   "0x9e4ede6215dd65ab0b16069808f0e11dc180052d": {
-    "thedao": 0.00090909
+    "thedao": 0.000909090909090909
   },
   "0x9e549f8088393cb21a0efaf2f99bf2692a416d92": {
     "thedao": 0.0004
-  },
-  "0x9ed5492d222b37009b4dae9d0d9fee5a89193896": {
-    "thedao": 9.524e-05
-  },
-  "0x9edeee2dea1a18ab0465fa7e4065ae98bf405dd0": {
-    "thedao": 2.414e-05
-  },
-  "0x9ef308700f2a91670e5339ceb29ecd6e624a5292": {
-    "thedao": 6.67e-06
-  },
-  "0x9e6316f44baeeee5d41a1070516cc5fa47baf227": {
-    "thedao": 3.33e-06
   },
   "0x9e965f12a6581b6c93b3c770702760ddf90dd261": {
     "tokemak_weth": 0.05

@@ -10210,69 +10210,35 @@
   "0x8086bbc6174ff1c1cc2ca22a6fd3b1c071428eee": {
     "tessera_dead": 0.15886446
   },
-  "0x809cfd9d541c7ab94495b88834139c6f53bc9c2a": {
-    "thedao": 35.1103909
-  },
-  "0x80ded55a95b95418b08eb1205b02a5350034ad31": {
-    "thedao": 20.0
-  },
   "0x80ae014c0fc9b9ee4d150d8f7ef4047c420e48bc": {
     "thedao": 9.9999
   },
   "0x805c66885cf0d53d3c1c7a38dc939bbd7c69ab4b": {
-    "thedao": 7.12726999
-  },
-  "0x80c81a1b5e18029891d3029813a57f1eac769997": {
-    "thedao": 3.0322
-  },
-  "0x805560fa00e697750438bd46947bf6b8661decb0": {
-    "thedao": 2.2
-  },
-  "0x803406776646b87d249f18ce9df81eb6ea1ac47b": {
-    "thedao": 2.149994
-  },
-  "0x800517b7fa881e08d4fa8a1f91075e4335c76b6d": {
-    "thedao": 2.08066667
-  },
-  "0x808e9183d26340cea9acd7058fbf02172c14f5aa": {
-    "thedao": 2.0
+    "thedao": 7.1272699914
   },
   "0x807640a13483f8ac783c557fcdf27be11ea4ac7a": {
-    "thedao": {
-      "e": 1.08,
-      "p": true,
-      "pr": "managed_account"
-    }
+    "thedao": 1.08
   },
   "0x8029b62163d7803cad2377d9d8f3dc14ba853455": {
     "thedao": 1.0
   },
-  "0x80db2f6128485dce8ef66a20a524580529003bb2": {
-    "thedao": 1.0
-  },
-  "0x80766f0ce42610b76374cd34e4b3fa8a4dec6bea": {
-    "thedao": 0.92758348
-  },
-  "0x801881e0700eeed4944d3482490920461f9000a3": {
-    "thedao": 0.76923077
-  },
   "0x80a3e008d60eac2c344c26550bf818f896ed9d4b": {
-    "thedao": 0.05896535
+    "thedao": 0.0589653458
   },
   "0x809b794d378c62b3507962fcffeca8b8371d63d5": {
-    "thedao": 0.04940399
+    "thedao": 0.0494039901
   },
   "0x80b697e40c5d09c555060d9348dbbf8e5c8a5027": {
     "thedao": 0.0199
   },
   "0x8064375042dcaaa0ee6134bd6292190a85113c36": {
-    "thedao": 0.00862069
+    "thedao": 0.008620689655172414
   },
   "0x80ede3db647add3f984bf74b89f0102adf360363": {
-    "thedao": 0.00374252
+    "thedao": 0.003742523809523809
   },
   "0x804a2d5f3d21e4193fbc71b0bcf2ebc19522de6f": {
-    "thedao": 0.00079331
+    "thedao": 0.000793312275132272
   },
   "0x806db6c5cbdaa7dee05c001863fae510a5fe6871": {
     "tokemak_weth": {

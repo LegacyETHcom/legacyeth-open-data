@@ -7960,7 +7960,7 @@
   },
   "0x863b89bdaba9e6b60c94bf216a62995b2d2aeba0": {
     "etherdelta": 0.01,
-    "thedao": 0.00996344
+    "thedao": 0.009963442760837531
   },
   "0x8683a513728cc50cb663b24c30ade356bc2a1255": {
     "etherdelta": 0.01
@@ -13882,41 +13882,17 @@
   "0x86518efdb0c11cc2542cc902075972a78cf950b0": {
     "tessera_zcat": 0.04601156
   },
-  "0x86114ef1b7c8f8c112635ac83a2e9406fdd5a4ab": {
-    "thedao": 186.98851818
-  },
-  "0x86149a8bb900fd3e6d018d5431d3246d4004872c": {
-    "thedao": 45.0
-  },
-  "0x86433f5c87ee9666cc5974e6fa547638a8483647": {
-    "thedao": 34.4137931
-  },
-  "0x864c05913596393f9bb45488b1d4082aa2143cb4": {
-    "thedao": 30.20114943
-  },
   "0x86f0fd26f785434d1b059dd6509e6e5ba9a46a01": {
-    "thedao": 27.50491365
+    "thedao": 27.5049136501
   },
   "0x864f9ce2823f58a3d8a3f4c6ed2b1caa9c4c8e94": {
-    "thedao": 25.86445237
-  },
-  "0x86975673e953e472784b60f9ef3b5071ee38e9a8": {
-    "thedao": 10.2
-  },
-  "0x865c448def2e7a1955c8835fd7964b224b31e190": {
-    "thedao": 2.40628811
+    "thedao": 25.8644523748
   },
   "0x8683b5084a06198a6bc24f2efe649dda158f4fb7": {
     "thedao": 1.0
   },
   "0x86183d36937f9d5ba3bb2e03138074a115559c7d": {
-    "thedao": 0.94839732
-  },
-  "0x86d0caf199023588b9167b8a0adcbae7c208560f": {
-    "thedao": 0.72
-  },
-  "0x8616703acb5f2a19332c4c0bdbdd4cc06d2bdb66": {
-    "thedao": 0.57384681
+    "thedao": 0.9483973202
   },
   "0x8602113827a6e8d08121726c972b8648d2b24f6b": {
     "thedao": 0.3
@@ -13924,20 +13900,8 @@
   "0x86d1d80c4dd0382820264fcc378e3d8f1aa082f8": {
     "thedao": 0.0999
   },
-  "0x86e95427c0d16cd533b1d56573c422f53d4dba12": {
-    "thedao": 0.04366392
-  },
-  "0x86a0291d1a3b53fccbcc3d6b4377ed8356685fe4": {
-    "thedao": 0.03
-  },
   "0x869aeaad85670701ddeadc8780a5cdac0f1429c8": {
     "thedao": 0.002
-  },
-  "0x86a8f460288b4a13c82831c08d659e27da50316d": {
-    "thedao": 4.587e-05
-  },
-  "0x86c5e5a51103ab72ebed56f20b8397e265f6f918": {
-    "thedao": 2.156e-05
   },
   "0x86fc6da0ea641e3f57c1b636c1a424ee9529c78a": {
     "tokemak_weth": {

@@ -9710,48 +9710,14 @@
   "0x6ab63d3eff6dd73f0c68d26ef52cb50cdb757f57": {
     "tessera_sweep": 0.12637786
   },
-  "0x6ae58338579e60e37a4fc8f35d13fd715a941965": {
-    "thedao": 100.471411
-  },
-  "0x6af6ad026fb012a0bd3a4046ce34d593f3a83674": {
-    "thedao": 60.46666667
-  },
-  "0x6a46bdab055450cc551a12f9e4c227e821c0d1b0": {
-    "thedao": 11.40711462
-  },
-  "0x6a7bb9f6956d6668a85c9883516bf2f0ada8a269": {
-    "thedao": 9.0
-  },
   "0x6aea263a3b767f9ca7deea93bb275f65140a0276": {
-    "thedao": 6.57142857
-  },
-  "0x6afb08c1822b27e11ed21c2f07ed119c7fcfbd6a": {
-    "thedao": 2.5
+    "thedao": 6.571428571428571
   },
   "0x6a099c87173aa6321840ac65a3996fa67ff4ee51": {
     "thedao": 2.0
   },
-  "0x6aae8ffca3ed4d848905a1f629824a00ed4d57b8": {
-    "thedao": 1.63
-  },
   "0x6ab9c8b7636cc0e29df85cf0bcb2ba3d07b15524": {
-    "thedao": {
-      "e": 1.6,
-      "p": true,
-      "pr": "unverified_contract"
-    }
-  },
-  "0x6aeb69fe86ee47e1ec4a28722b13d6b087067684": {
-    "thedao": 1.36362093
-  },
-  "0x6a81706459860bf0597cfeffc1f062f4b39675cf": {
-    "thedao": 1.0
-  },
-  "0x6af18569f137444f9b6732c650e74af7a02e46d5": {
-    "thedao": 0.99851818
-  },
-  "0x6abbd2b028d583960ba742aace66662443eb501f": {
-    "thedao": 0.8
+    "thedao": 1.6
   },
   "0x6aa50b942f38fdb284514f9e0145474df9636d15": {
     "thedao": 0.0836534
@@ -9763,16 +9729,16 @@
     "thedao": 0.0199
   },
   "0x6ad75546f37286148d8d1021197a85b556867b5c": {
-    "thedao": 0.01000379
+    "thedao": 0.0100037934
   },
   "0x6a322da20be68ddf5cb3b0cf3aa07f8062716c24": {
     "thedao": 0.0096
   },
   "0x6accf1436a163fff1de4a459655d64f5294ca3be": {
-    "thedao": 0.00841554
+    "thedao": 0.008415543753194076
   },
   "0x6a112ca504de316cbd1d02c5a7e19af61a11950a": {
-    "thedao": 0.00537236
+    "thedao": 0.005372357079500472
   },
   "0x6abb59e01518854dd8a03f1e8213e77e1d75fba7": {
     "tokemak_weth": 0.02562872

@@ -12046,28 +12046,10 @@
     "thedao": 158.0
   },
   "0x4f7a600ab958743837adfd1e2d170b88e63ebaa9": {
-    "thedao": 67.66666667
-  },
-  "0x4fafd8f52c000b43f5f3dd33ce83312031ba03b9": {
-    "thedao": 50.0
-  },
-  "0x4ff5b6662476ed86c81e2b0f05a2362903edb18d": {
-    "thedao": 43.61915806
-  },
-  "0x4fc3b2cec83293ef94483d962579b7337653ad69": {
-    "thedao": 7.33333333
-  },
-  "0x4f115496dd2c846b36ea397a018a83cd69f718c0": {
-    "thedao": 5.04807692
-  },
-  "0x4fe75a97731b37fb7a3bdd0ab047611be2e18efa": {
-    "thedao": 3.0
+    "thedao": 67.66666666666667
   },
   "0x4f861a6d071a21ee73d60522d6dd120d90eab14e": {
-    "thedao": 1.73785042
-  },
-  "0x4fd4220553b0610d5b8973f4f80c29ec7fa8e336": {
-    "thedao": 1.48148148
+    "thedao": 1.7378504219826088
   },
   "0x4f2e6b1942711f4d547a8e690e170bf111b4d0bb": {
     "thedao": 1.02
@@ -12075,41 +12057,29 @@
   "0x4f5e69fd8868f92f1e03f054200deb84476a31c5": {
     "thedao": 0.9999
   },
-  "0x4f50198d60e9e0a92b417c029f59b3548334001b": {
-    "thedao": 0.95238095
-  },
-  "0x4f4a9be10cd5d3fb5de48c17be296f895690645b": {
-    "thedao": 0.86363636
-  },
   "0x4f17fd5a47e47f227c8167e8844e3e9fb462e7b6": {
-    "thedao": 0.52796734
+    "thedao": 0.5279673352
   },
   "0x4f5558bc898394d3a8482d5bff4596968031ca3c": {
     "thedao": 0.5099
-  },
-  "0x4f1e01e8249b4af1f109199ef77fc0dc504532b1": {
-    "thedao": 0.42731663
   },
   "0x4fd2da67575648d4cd318c847f97ab9625168a55": {
     "thedao": 0.138299
   },
   "0x4f9ac911070dd288c08c2118de25051932ae6200": {
-    "thedao": 0.105528
+    "thedao": 0.10552799930000002
   },
   "0x4f5f671aa6e88c746039d7461cabd6b5a4efa828": {
     "thedao": 0.1
-  },
-  "0x4f8a4c3d228843688af5042b13c968ae263a0a0c": {
-    "thedao": 0.056
   },
   "0x4f7f2958717ce9e4a2b2c271c39b462d07fe4f05": {
     "thedao": 0.019
   },
   "0x4fae38ced4c4b1360d0535108bb1cbc376cb37a6": {
-    "thedao": 0.00611364
+    "thedao": 0.006113636399999
   },
   "0x4f4039f97a448e288ac41bc6f750bfc0cede4a95": {
-    "thedao": 0.00087206
+    "thedao": 0.000872063968015991
   },
   "0x4f2ba9f3cbfecd5f1fca46b352645c8c9e501c54": {
     "tokemak_weth": 1.0

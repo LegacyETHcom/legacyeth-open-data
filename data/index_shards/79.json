@@ -13343,23 +13343,14 @@
   "0x796aeff01b6d209cf204bcf47e1bee61b12a8320": {
     "switcheo_v2": 1e-08
   },
-  "0x7976e9cfb07600f19f247c8e2a36db7098d8481b": {
-    "thedao": 6.45093567
-  },
-  "0x793a12eafb10eab87ebd4ee49d8487cfa7d7d90d": {
-    "thedao": 4.76190476
-  },
   "0x790a871aedbf8479c3eb59dbfe4550fa2c5c9c2b": {
-    "thedao": 3.51589333
+    "thedao": 3.5158933333333335
   },
   "0x79c658d3784263f40c467c6b4d0c73e7a2b29008": {
-    "thedao": 3.04545455
+    "thedao": 3.0454545454545454
   },
   "0x792220fd66719b642ab4e2418b65a41870bf7181": {
     "thedao": 0.1
-  },
-  "0x795d301e5f5f1ac243d392884d9eae671983ace3": {
-    "thedao": 0.03
   },
   "0x7988d25fd2955809165389bb05f4537261fb665c": {
     "thedao": 0.03
@@ -13374,7 +13365,7 @@
     "thedao": 0.01
   },
   "0x79467e2cd243bbe3733f734f4264e5bfcf067495": {
-    "thedao": 0.00909091
+    "thedao": 0.009090909090909089
   },
   "0x79df83f1764ed511a4b1a0da0e52e3f990085aa5": {
     "tokenstore": 0.15

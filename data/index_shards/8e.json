@@ -12041,26 +12041,14 @@
   "0x8e1840aa63e999054b6bac41e6b5a594ad637538": {
     "thedao": 140.9999
   },
-  "0x8e02297f93ac998f6309657f680156e15410baf1": {
-    "thedao": 46.5
-  },
   "0x8e3837ec7523e223640672f32e63c93d25b2b484": {
-    "thedao": 14.93333333
-  },
-  "0x8e0076d4f04de6bde4b8892ac345b94bb531792d": {
-    "thedao": 8.08077443
+    "thedao": 14.933333333333334
   },
   "0x8ecabc4793b1ebcb2ef7e5736f9e818ace2e1210": {
-    "thedao": 5.20874667
+    "thedao": 5.208746666666666
   },
   "0x8ec8df43357fc030f72d31c3cef66f552c086e82": {
-    "thedao": 2.25635294
-  },
-  "0x8eaafdd769d6b7610d7f237099e7a447376ab636": {
-    "thedao": 1.0
-  },
-  "0x8e143f57834b7ae448c82c87355bddeb7e37e028": {
-    "thedao": 0.83333333
+    "thedao": 2.2563529412
   },
   "0x8ed5a86385d116904445ffb95505a42f491819ea": {
     "thedao": 0.3
@@ -12075,13 +12063,10 @@
     "thedao": 0.01
   },
   "0x8e4fd770c49ce2e0f4a1de6fc4afccaf8a726314": {
-    "thedao": 0.00709582
+    "thedao": 0.007095824574401785
   },
   "0x8e63e85adebcdb448bb93a2f3bd00215c1cbaec4": {
     "thedao": 0.002
-  },
-  "0x8ecf3f9ac41605293a5724fa547bcf62de2c4eb0": {
-    "thedao": 4.54e-05
   },
   "0x8e7a722e3ff21c0d6ae2a1e806c642e31cb78dd9": {
     "tokemak_weth": {

@@ -357,7 +357,7 @@
   "0x87885aaeeded51c7e3858a782644f5d89759f245": {
     "avastars": 2.53e-06,
     "singularx_fund": 0.00175805,
-    "thedao": 0.43634964
+    "thedao": 0.4363496437088002
   },
   "0x87c1787f9782eabcbcd2e9b4aabb87ddff561d55": {
     "bancor_eth": "0.050000000000000003",
@@ -8753,38 +8753,14 @@
   "0x8798bd4710759cf544515d846926c25f90eccc68": {
     "th_token_sale": 31.643467075314998
   },
-  "0x87d62a06ff52c2030697ad2f8df859373e08d60a": {
-    "thedao": 21.70379719
-  },
   "0x8793192248c6c59dae3aade3709e3b0e23880f88": {
-    "thedao": 16.66666667
-  },
-  "0x87245949da826b30e73270e1751f0326e32e765b": {
-    "thedao": 8.93333333
-  },
-  "0x875d50a8b4aa49b637096aa8929237cbd69b369a": {
-    "thedao": 5.58
-  },
-  "0x873c8655b5dff85a03d5a03fea013a9b4ec5eadf": {
-    "thedao": 3.84615385
+    "thedao": 16.666666666666668
   },
   "0x876f4289fe32acd56a11cf7635a51f7631db9f51": {
     "thedao": 2.5
   },
-  "0x875c35d4bb1eba424197b3bf28f03c7654296a76": {
-    "thedao": 2.03159661
-  },
-  "0x8732cb59f5bf4d82c6f756b1756284df386c1e79": {
-    "thedao": 1.93
-  },
-  "0x87737277973cead67c058c252f94f5062ed3a80c": {
-    "thedao": 1.73333333
-  },
   "0x87c0057b6bd097579f679f1ac81523ceea14fe86": {
-    "thedao": 1.0245734
-  },
-  "0x87db4819e3f56111714e8365e28793793e73fb81": {
-    "thedao": 1.0
+    "thedao": 1.024573405
   },
   "0x87ed69291991dd336a2eef8b7ff63a6deadc6fd8": {
     "thedao": 0.7099
@@ -8792,26 +8768,17 @@
   "0x874b57ad7b8967dcdd2ec1ebdf17d4b38e465f3b": {
     "thedao": 0.3
   },
-  "0x877b73c18c7bf379c66832794183b51d248a1f18": {
-    "thedao": 0.04285714
-  },
   "0x8743f29085152003b58003e40f7ddfdb2631af03": {
-    "thedao": 0.01581426
+    "thedao": 0.0158142572999903
   },
   "0x87e4c3d7dad3de4c4d6f8618816ab99573d63cce": {
-    "thedao": 0.0073913
+    "thedao": 0.007391304347826086
   },
   "0x87083e4d774d49d8e13f3ccdc1362d7d738ecc1f": {
-    "thedao": 0.00333333
+    "thedao": 0.003333333333333333
   },
   "0x875aaca3eb5c80d8fe39152a1c620207c72a696b": {
     "thedao": 0.0001
-  },
-  "0x87fa66efec0e3a32aed495bcb4eebabbd90c26e2": {
-    "thedao": 3.704e-05
-  },
-  "0x87370c29bf6904ae84459de1e0240561ddfc4fcc": {
-    "thedao": 1e-06
   },
   "0x8773b84f4bd4b0ab462080067100654ef8fd04df": {
     "tokenstore": 0.09495502006

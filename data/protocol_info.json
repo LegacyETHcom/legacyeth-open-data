@@ -1340,7 +1340,7 @@
   },
   "thedao": {
     "name": "The DAO",
-    "desc": "The DAO launched in April 2016 as the largest crowdfund in history, raising 11.5 million ETH from over 20,000 investors. In June 2016, a reentrancy exploit drained 3.6M ETH, leading to the contentious Ethereum hard fork that split ETH and ETC. After the fork restored the funds, a WithdrawDAO wrapper contract was deployed, allowing any DAO token holder to burn their tokens 1:1 for ETH. Over 81,000 ETH remains unclaimed in the wrapper to this day.",
+    "desc": "The DAO launched in April 2016 as the largest crowdfund in history, raising 11.5 million ETH from over 20,000 investors. In June 2016, a reentrancy exploit drained 3.6M ETH, leading to the contentious Ethereum hard fork that split ETH and ETC. After the fork restored the funds, a WithdrawDAO wrapper contract was deployed, allowing DAO token holders to redeem DAO tokens for ETH. LegacyETH indexes the remaining eligible wallet balances from production data so users can verify possible unclaimed ETH.",
     "contract": "0xbb9bc244d798123fde783fcc1c72d3bb8c189413",
     "deployed": "April 2016",
     "color": "#c0392b",

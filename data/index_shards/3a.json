@@ -12111,75 +12111,23 @@
   "0x3a2b68e1e20eefcb71888aa99c08535d80f201af": {
     "tessera_zcat": 0.03100174
   },
-  "0x3ac63c0b95d8a8fe7b5c4ecef5225ca633b40f47": {
-    "thedao": 44.45491263
-  },
   "0x3af9905561544df95b9d02e8fe2a1a8d303a318c": {
     "thedao": 43.0
   },
-  "0x3a1b4a276a67e9be5da1b8914e468e4b33ca5939": {
-    "thedao": 20.0
-  },
-  "0x3a8ed8c4be3b9716f45f0bd7e703cf25b1e45bdb": {
-    "thedao": 18.0
-  },
   "0x3ae3baa2741c2b847547747bddd037bc7cf7c2c7": {
-    "thedao": {
-      "e": 10.0,
-      "p": true,
-      "pr": "unverified_contract"
-    }
-  },
-  "0x3acf3c516b1e17b20487cecfc79e973d21086347": {
-    "thedao": 3.984642
+    "thedao": 10.0
   },
   "0x3aaa3458a89c68a6517209d7b9feb7ab1fd40bd0": {
-    "thedao": 3.12978304
-  },
-  "0x3a3c09a32d8c015c7f463caf132dd80817734a98": {
-    "thedao": 3.0
-  },
-  "0x3a3ae2ee4fb627bb701d6af6cbbd6510bb2dfb38": {
-    "thedao": 1.92091478
-  },
-  "0x3a68947f5e1b19357826a40a3b9e877fcf4d7018": {
-    "thedao": 1.59448276
-  },
-  "0x3a72cffd57f823b7a406ed1adbc338b6c4e0c334": {
-    "thedao": 1.14710794
-  },
-  "0x3a74b642f16a25be3f4a6b48bff66f77090ae3b7": {
-    "thedao": 1.0
+    "thedao": 3.1297830379
   },
   "0x3a983a68971783444c726ed81be99f0081d2e6d4": {
     "thedao": 1.0
   },
-  "0x3aac4d4d80749cc7aac8663c9c8ae87d3e964cce": {
-    "thedao": 1.0
-  },
-  "0x3a199eb0d4922844e7233183a7babba674034f12": {
-    "thedao": 0.99666667
-  },
-  "0x3abc88acc47b5d96e0e22b042522c08fc0865c95": {
-    "thedao": 0.48
-  },
-  "0x3aecdce11d7b3847c8cf04c3e1bc7b2e611cc9f5": {
-    "thedao": 0.39870464
-  },
-  "0x3a994b78e2adc42ceb79d9ecd60ca3ea4c013b38": {
-    "thedao": 0.33333333
-  },
-  "0x3a400429118dcac9c3f3c9e44543508bcf494c35": {
-    "thedao": 0.2
-  },
-  "0x3a5f159b4acf3d0ee13cdf0d0b63f8d91d5cccab": {
-    "thedao": 0.09851818
-  },
   "0x3ae92b4357709d533bdc3021c1521e5df1f6ab70": {
-    "thedao": 0.06847619
+    "thedao": 0.06847619047619047
   },
   "0x3a500d34357c2b6f2891f60dc00eb20d4e0f03fe": {
-    "thedao": 0.04132327
+    "thedao": 0.0413232727
   },
   "0x3a4a2397728fccfa76d13926d160c7a3315c040d": {
     "thedao": 0.01
@@ -12188,19 +12136,13 @@
     "thedao": 0.01
   },
   "0x3ad9fa4f03012d0c05bee3ef73c16f5137292d90": {
-    "thedao": 0.00957672
-  },
-  "0x3a9c63e5bbe297e0688be8210e096d47f0642a07": {
-    "thedao": 0.00666667
+    "thedao": 0.009576719576719576
   },
   "0x3ab63a2eeb014cad7bad7751b5b19dce3e8840f8": {
-    "thedao": 0.00183138
+    "thedao": 0.001831384615384615
   },
   "0x3a6341d1872eba1a857f91648b674c6519c2afe2": {
-    "thedao": 0.00130867
-  },
-  "0x3af67ef8286c9b177bf458f35c9e0f4f45558125": {
-    "thedao": 4.76e-06
+    "thedao": 0.001308672
   },
   "0x3ad578af2e96aad62088dc0b4350e1e3a7c7c1c3": {
     "tokemak_weth": 0.0001,

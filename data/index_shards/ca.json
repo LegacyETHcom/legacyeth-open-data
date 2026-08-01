@@ -9031,7 +9031,7 @@
       "tbw": "1685977075"
     },
     "tessera_zcat": 1.082e-05,
-    "thedao": 0.00052118
+    "thedao": 0.000521177608885337
   },
   "0xcaa23a1099b0f737f02151dbcf2cb927e51db376": {
     "monolith_tkn_holder": {
@@ -9800,46 +9800,13 @@
     "switcheo_v2": 8.453560876e-09
   },
   "0xca77e50db9ca2c908a289941b6dc99a99c3ad31e": {
-    "thedao": 242.60279266
-  },
-  "0xca082c4615e5e171d8aef9b681f829c7ab80046c": {
-    "thedao": 130.43478261
-  },
-  "0xca9b050e4e1a2a727d80160e79822a6120176ba1": {
-    "thedao": 95.0
-  },
-  "0xca785fc70eaa5f63c3d68a9072cac886b303cd3f": {
-    "thedao": 10.0
-  },
-  "0xcab4cd55c2b0489e7d147bd700f913f42d7c3822": {
-    "thedao": 6.96551724
-  },
-  "0xcac0e093de3badaefb1dcac2778a419db4db5304": {
-    "thedao": 5.0
-  },
-  "0xca55595ef44b0d2b9a2118483a61689591f3544b": {
-    "thedao": 3.33333333
-  },
-  "0xca243c5ca501ccfb340bb053a5195e76661eadd3": {
-    "thedao": 1.17
-  },
-  "0xcac1081bc80842ec4d005b8ccf980665bd8d8a02": {
-    "thedao": 1.0
-  },
-  "0xca72bfb049d2a193ac2d12768e1c39fe31e3fdc2": {
-    "thedao": 0.95238095
-  },
-  "0xca08836852b52b2f7b1587294e8ec09c497d280e": {
-    "thedao": 0.35481465
+    "thedao": 242.60279266182286
   },
   "0xcabae7742ec7801f972b4f308f3c5494db56c693": {
     "thedao": 0.306
   },
   "0xca2617c0c16a78dc0b29ca72a88785e5797ae61f": {
-    "thedao": 0.28297177
-  },
-  "0xca510bc3ed6b42c7042b4fdf120b996d012de322": {
-    "thedao": 0.19
+    "thedao": 0.2829717741869978
   },
   "0xca7b2f6972e5de4353a9e6117f6198bdeff7beaf": {
     "thedao": 0.1096
@@ -9854,13 +9821,10 @@
     "thedao": 0.0009
   },
   "0xca0dd08785bd87d62e6e11ea72575ba103d079de": {
-    "thedao": 0.00071795
+    "thedao": 0.000717948717948715
   },
   "0xcae66e51566512963d6b5b55727cf5a34363edc9": {
-    "thedao": 0.00016485
-  },
-  "0xcae3c8491eabb748ef9b1c8daab2e42391114d1a": {
-    "thedao": 1e-05
+    "thedao": 0.000164853333333333
   },
   "0xca2d2d38729b6e59855d6919c90dbea4cb25b00c": {
     "tokemak_weth": 0.0001
@@ -11133,5 +11097,8 @@
   },
   "0xcaf672fad3595be7ae6e29ce1f7841037b4927e8": {
     "zethr_main": "0.000003020941602082"
+  },
+  "0xca04d260356d19f0d7255041542c9cbc866f2cb3": {
+    "thedao": 0.000714079624815586
   }
 }

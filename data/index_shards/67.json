@@ -5107,8 +5107,7 @@
     "etherdelta": 3.593933078e-09
   },
   "0x6793c5155048752c05dda2e44fe77aa62bb05156": {
-    "etherdelta": 3.560000001e-09,
-    "thedao": 2.727e-05
+    "etherdelta": 3.560000001e-09
   },
   "0x671cae7d1a1453997acd7337d4f304c036c959a9": {
     "etherdelta": 3.19e-09
@@ -8114,7 +8113,7 @@
       "tbw": "14988"
     },
     "singularx_fund": 0.00074898,
-    "thedao": 0.00996585
+    "thedao": 0.009965852799067382
   },
   "0x67b87368b0fa19a42b3dab70de4d3def2ad7bc60": {
     "mooncatrescue": {
@@ -8870,47 +8869,23 @@
   "0x67ac099b2adf7a0b7dd60596dc672a19e1cc984b": {
     "tessera_zcat": 0.00939471
   },
-  "0x67b1f93eed2b773c749f146bdbd649548dcf5cb9": {
-    "thedao": 26.81233333
-  },
-  "0x67ab41b6424ad57b2ff012e0857a78764fb32502": {
-    "thedao": 6.09582287
-  },
-  "0x671cdc229ab5eb32b20dcb5843964a6be041913a": {
-    "thedao": 1.61009258
-  },
   "0x67f886b80f06d6a58a31b7c890bf1d3d91fe5fe8": {
     "thedao": 1.07
   },
-  "0x67453754f4b11d87f2ddd580308c420198e0e36d": {
-    "thedao": 0.92720307
-  },
   "0x67365c2ae32e78208b3cef9cff3a0538ee9b0365": {
-    "thedao": 0.74772659
+    "thedao": 0.747726594
   },
   "0x67b0196987447475c0d29d93715becc8b21b9f0a": {
     "thedao": 0.6798
   },
-  "0x671d2740e89619b83c85cb74ddd6f40a753e2f23": {
-    "thedao": 0.66666667
-  },
-  "0x67484cfcb40a38cdd1d54e94a81c3fb9dd76caa9": {
-    "thedao": 0.34851818
-  },
   "0x671240d22fdc753d8cdbe13387d6d43471bd6c94": {
-    "thedao": 0.33333333
-  },
-  "0x677b6a22ce22a52d6a7737714ca750e2128cd923": {
-    "thedao": 0.33333333
+    "thedao": 0.3333333333333333
   },
   "0x67fede04d2aae27a3518e8097773528540b029ea": {
     "thedao": 0.09
   },
   "0x672125061c0ca607fe4e46eac76db55a3bec0926": {
-    "thedao": 0.08914119
-  },
-  "0x676177018e3b9ae7811c8ea446b4b7d29c9f182d": {
-    "thedao": 0.06992115
+    "thedao": 0.0891411893
   },
   "0x67df3808f5e175bcd563e23ecb8c55fa6290c73b": {
     "thedao": 0.021337
@@ -8921,17 +8896,14 @@
   "0x67f380f363ad86b6c077093986de44a038395527": {
     "thedao": 0.0148
   },
-  "0x679eb5413df1e1144bbbb8dddb3fa14eb0e3e927": {
-    "thedao": 0.01422797
-  },
   "0x67bf336a6d995c93f25f040b83e61feb6ecd51af": {
-    "thedao": 0.01284316
+    "thedao": 0.0128431566
   },
   "0x67cd0d4db7f4b0c0ba8800abda0e6d1925c30f1e": {
     "thedao": 0.01
   },
   "0x674bf7cafb63048ec23cd70b908f792286579469": {
-    "thedao": 0.0001
+    "thedao": 0.000100000015384615
   },
   "0x67a0f19771c94388a98c9cc6d581520733196656": {
     "thedao": 0.0001

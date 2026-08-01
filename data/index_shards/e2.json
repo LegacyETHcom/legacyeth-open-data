@@ -11449,50 +11449,20 @@
   "0xe2f54ce8c36f505f09305143dd7733c7f0eb9ad6": {
     "tessera_zcat": 0.37020599
   },
-  "0xe22ee80e6059d548f127c934dca9d5bfcc1c2d6b": {
-    "thedao": 36.7826087
-  },
   "0xe26b5fa11397ac2295a549a0fd11a270c4d2cf35": {
     "thedao": 10.0
   },
-  "0xe268a391e7df4443a6d3a284d14d0b9ee3007c7f": {
-    "thedao": 5.04347826
-  },
-  "0xe20e842307498dedd82aceb49b7618acd0e8106a": {
-    "thedao": 3.0
-  },
-  "0xe29bbebff7403348a56bc0b11e914b4a71079f0a": {
-    "thedao": 2.30769231
-  },
-  "0xe292ca86701caecf840ef48f9be9770706b0b14b": {
-    "thedao": 2.0
-  },
   "0xe202538de58f65af0432af50c3ce45a3345ae478": {
-    "thedao": 1.69082743
-  },
-  "0xe27d82128577d75b1051bf8978e9c310de4a7047": {
-    "thedao": 1.34666667
+    "thedao": 1.6908274262
   },
   "0xe2cc7d0a75ff46b764b96e395e63878039add324": {
     "thedao": 1.12614
   },
-  "0xe21761f1faf671b698e4d06f409c1bc41948cb8b": {
-    "thedao": 1.0
-  },
   "0xe24907be69166c2bf13ae01d1d3ce5aed3719279": {
-    "thedao": 1.0
-  },
-  "0xe2cf4202d263a42c06197052e4be01312b583b72": {
-    "thedao": 0.96742643
-  },
-  "0xe22ef33f0d5f66e22aa8ba53046b5771a77f6f28": {
-    "thedao": 0.92374575
+    "thedao": 1.000000000000049
   },
   "0xe25ec28eddaa2b3bae130b1b5fd4456b27a825f4": {
-    "thedao": 0.76923077
-  },
-  "0xe2c4b78839ed2c96d4814542e14dc332aa48564e": {
-    "thedao": 0.10008495
+    "thedao": 0.7692307692307693
   },
   "0xe239a05e176d262c32bccf8a8f67382d6dd92827": {
     "thedao": 0.1
@@ -11501,25 +11471,16 @@
     "thedao": 0.09975
   },
   "0xe2b60cc130ec4416c95a0c38755fd0607140d1a8": {
-    "thedao": 0.05
+    "thedao": 0.049999999999999996
   },
   "0xe2a2c81c659c9e862ae8388efc9715a8b0199eb6": {
-    "thedao": 0.02552174
+    "thedao": 0.025521739130434783
   },
   "0xe2787a70e717a54d084baaee39c121387b0980e3": {
     "thedao": 0.01
   },
-  "0xe28769c2af4c8506548bda97c50df14d842cf6dd": {
-    "thedao": 0.00833333
-  },
-  "0xe29231bdeedf88fd5be163f98e1d4bf9608d7898": {
-    "thedao": 0.00833333
-  },
   "0xe254715d5922e80c9267fd04a3c9b1e13a90f7b3": {
-    "thedao": 0.00261905
-  },
-  "0xe269e71f06476e56ca21de8a94d14af94dcdbfa9": {
-    "thedao": 0.001
+    "thedao": 0.002619047619047618
   },
   "0xe232c7471b0c30df49f7c8922a6cde0e656d4117": {
     "thedao": 0.0003

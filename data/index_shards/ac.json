@@ -5160,7 +5160,7 @@
   },
   "0xac6d0c66ad86e6ad1027d5ce6497ea41813398a3": {
     "etherdelta": 0.000445,
-    "thedao": 0.0500847
+    "thedao": 0.05008470264659007
   },
   "0xac1df940367afff2981eee9dbac9097f383d8061": {
     "etherdelta": 0.00044444646
@@ -9482,8 +9482,7 @@
     "monolith_tkn_holder": {
       "e": 0.002983791072435131,
       "tbw": "49960000000"
-    },
-    "thedao": 3.333e-05
+    }
   },
   "0xac9bd7342668c7d11e58c1827dc21cde5c24d2eb": {
     "monolith_tkn_holder": {
@@ -10241,36 +10240,17 @@
   "0xacf0820183f5c10fbb0fd87b25d0661549084686": {
     "tessera_dead": 0.13074268
   },
-  "0xacb82cbe769c957b08213299dcf96b5a97b98a17": {
-    "thedao": 9.39705849
-  },
-  "0xacf8cb421a2e28e25770c064f8dc620b9c987368": {
-    "thedao": 9.0
-  },
   "0xac123babf711c82a0ef86e93899f97d86963f108": {
-    "thedao": {
-      "e": 2.32422808,
-      "p": true,
-      "pr": "unverified_contract"
-    }
-  },
-  "0xacba0850acf7926b5979b85b35a1f3d3bbba4c4d": {
-    "thedao": 1.6
+    "thedao": 2.3242280784
   },
   "0xac85580b92873bc62e27cd03e5e30b07d3bb4c36": {
     "thedao": 1.0
-  },
-  "0xaccbbb97802d5073c24d169a8c4d578c8aac96e6": {
-    "thedao": 0.88
-  },
-  "0xace63aed65c1aace34110529a0815c1e28818703": {
-    "thedao": 0.86558829
   },
   "0xac93c5ea58b0cbe3a1160b2ded266e1561adbb94": {
     "thedao": 0.1
   },
   "0xacb38543a8eb63ab254346a05c2d9221a2acfec6": {
-    "thedao": 0.01237641
+    "thedao": 0.0123764056
   },
   "0xac16d7a9abcfe0921d1af4873de04df91331b85e": {
     "thedao": 0.003021

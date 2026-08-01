@@ -9126,38 +9126,20 @@
   "0xa6ac84571786474e3e0b83d4faaea7d1832f615c": {
     "switcheo_v2": 4.8e-09
   },
-  "0xa69225e45053038b9b08790be2646d358b79d4f4": {
-    "thedao": 200.0
-  },
   "0xa613456996408af1c2e93e177788ab55895e2b32": {
-    "thedao": 33.93686555
+    "thedao": 33.9368655531
   },
   "0xa648c6de39a7673e2a0092502dfd6aeb6862c470": {
-    "thedao": 21.53846154
-  },
-  "0xa67bbb130186910f32cf31d59026e57136213f77": {
-    "thedao": 4.66666667
+    "thedao": 21.53846153846154
   },
   "0xa613c627cb7cde9f55b1a90f17fabe5160c11f45": {
-    "thedao": 3.37085059
-  },
-  "0xa6547a4a1470b32bf410fd197051859c5e67a9b6": {
-    "thedao": 3.0
-  },
-  "0xa65c8e434d0b2bbf923ce181d7c8a95e73a8b120": {
-    "thedao": 1.9
+    "thedao": 3.3708505895
   },
   "0xa68b351ac7c239ab0d4412aac58b314e5484a1b5": {
     "thedao": 0.999906
   },
   "0xa60017f39d8cde79faab2a157519441078f8a106": {
-    "thedao": 0.67034036
-  },
-  "0xa6d97a9cf34e24ee2bd21b7647919276cfb7814a": {
-    "thedao": 0.66666667
-  },
-  "0xa6f156cf1b29290d31a1e8df54f171cae1eba144": {
-    "thedao": 0.41580856
+    "thedao": 0.6703403602
   },
   "0xa690f9d463669e6d3f0675e68b030177654406a5": {
     "thedao": 0.1
@@ -9166,7 +9148,7 @@
     "thedao": 0.1
   },
   "0xa6200fbd8b6474249d953466a153ef1bdf289e5b": {
-    "thedao": 0.0618716
+    "thedao": 0.0618716003
   },
   "0xa6ec0c5c827c4017d97ea38d586e05ae5ca4ac2b": {
     "thedao": 0.0213
@@ -9181,10 +9163,10 @@
     "thedao": 0.0099
   },
   "0xa66c401381a0df0a89e22325864eb40be738ce4d": {
-    "thedao": 0.0005437
+    "thedao": 0.000543697
   },
   "0xa6f7511ca57fa4d2ba65ce4c656838c9eb933568": {
-    "thedao": 0.00033333
+    "thedao": 0.00033333333333333
   },
   "0xa63a351a0d194d9bc2b36d85b9b2f5322720008f": {
     "tokenstore": 1.49

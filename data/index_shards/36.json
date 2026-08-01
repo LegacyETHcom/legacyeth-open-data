@@ -8436,8 +8436,7 @@
     "etherdelta": 1.9548623808e-08
   },
   "0x36f8d88bf4f406ba5359e4c58e66d995469ded4c": {
-    "etherdelta": 1.3908687338e-08,
-    "thedao": 3.08e-06
+    "etherdelta": 1.3908687338e-08
   },
   "0x36de84c25b827c261ec65df2fc0a403f1fa5359f": {
     "etherdelta": 9.991560142e-09
@@ -12312,36 +12311,23 @@
   "0x3609088a741fe0c707934237613114e5d4ebfd07": {
     "thedao": 71.0
   },
-  "0x36cbb0551fab18b12da833ec4cc7d0707436088b": {
-    "thedao": 12.62575049
-  },
-  "0x360dbdf43b26b52bcfa841882d8e0e55fb3d1f49": {
-    "thedao": 9.66666667
-  },
   "0x362bb67f7fdbdd0dbba4bce16da6a284cf484ed6": {
-    "thedao": {
-      "e": 5.0,
-      "p": true,
-      "pr": "crowdsale_contract"
-    }
-  },
-  "0x36199943c4d572dd4ffce187853703de3069a200": {
-    "thedao": 4.34635883
+    "thedao": 5.0
   },
   "0x36e1a3463eedf82019de499fad88200521c1973b": {
     "thedao": 3.0
   },
   "0x36caa67834af3005983ff6c9dda19b99e3ec4a96": {
-    "thedao": 1.72398855
+    "thedao": 1.7239885522
   },
   "0x369cffff84065d3361c6f50972040d6e6d9ccf64": {
-    "thedao": 1.01184758
+    "thedao": 1.0118475827
   },
   "0x36c4c39755a3d25dc4b392aa20e69d70b480d210": {
     "thedao": 0.2
   },
   "0x368f3b53f78fe2a72d490662fb2929dff7b34f68": {
-    "thedao": 0.06886251
+    "thedao": 0.0688625136
   },
   "0x365968a0747edc66e4ae3b0a6c065de903ee4ae9": {
     "thedao": 0.05

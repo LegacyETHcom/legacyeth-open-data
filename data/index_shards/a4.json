@@ -2680,7 +2680,7 @@
         }
       ]
     },
-    "thedao": 0.00909091
+    "thedao": 0.00909090909090909
   },
   "0xa46e0b33401db60d9e76ae839da8d5479493850b": {
     "ens_old": {
@@ -9617,23 +9617,14 @@
   "0xa420cd6c9af0ea469ea9e2a84f945009d52448fc": {
     "thedao": 7.77
   },
-  "0xa4b2f9323253e69c2ce1c2229bff6920c3352a02": {
-    "thedao": 0.95
-  },
-  "0xa41f48b248c82ee78587654197c35e8a696ef9cf": {
-    "thedao": 0.29651948
-  },
   "0xa45ec941ca6574e0b25b8fd5cfc2d34dff76666d": {
     "thedao": 0.27837
-  },
-  "0xa4a9e7f9f2c99cb7527e791809d005b0511f9ca7": {
-    "thedao": 0.13217532
   },
   "0xa455a66f5263f7afae08ae6c7b4a64068cddef81": {
     "thedao": 0.01
   },
   "0xa4fec4ac09849ef70d789fcf6e0cc7c63acc0e61": {
-    "thedao": 0.00172609
+    "thedao": 0.001726086956521737
   },
   "0xa4353115d1563a0a19508950d274dcc5909a0d34": {
     "tokemak_weth": {

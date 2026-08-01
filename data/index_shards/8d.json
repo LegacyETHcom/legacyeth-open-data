@@ -15709,7 +15709,7 @@
     "hourglassx": "0.020237715356040974",
     "old_weth": 1e-06,
     "singularx_fund": 0.08850794,
-    "thedao": 0.031
+    "thedao": 0.031000000511015362
   },
   "0x8d8e4a73d502121ff46563a5cb6469608222c436": {
     "idex": 8.5
@@ -18677,44 +18677,14 @@
   "0x8d5b11cdde14aa55fc4bd562edc121738567dd2c": {
     "th_token_sale": 0.2
   },
-  "0x8d0891648a601cdb332be002f36976ab36265c75": {
-    "thedao": 17.39130435
-  },
-  "0x8ddf4142ec81b4a6bfb94152b45fd0de4f888ca0": {
-    "thedao": 10.66666667
-  },
-  "0x8dbc20fc8cd374425ee65a5c99672aff0238a883": {
-    "thedao": 10.24
-  },
-  "0x8d594d1379d77a4304dd3c18702648e5aab1cf5d": {
-    "thedao": 8.55723548
-  },
-  "0x8dffebfcc6c2db84e1b7e1984527cc0ae4fd0e7b": {
-    "thedao": 7.0
-  },
-  "0x8d262f884ebd9102a08e6c6b05e1986170cbe58d": {
-    "thedao": 5.0
-  },
   "0x8dc23b164f2b0dfc02bf1b984258573dd3cef812": {
     "thedao": 2.0
   },
-  "0x8d7da1fefa006bd33dae1259ec4b4e5b73c57cf7": {
-    "thedao": 1.86147186
-  },
-  "0x8d3fb842624c3ca5273966c00876be8a19e8afb8": {
-    "thedao": 1.61030596
-  },
-  "0x8d8b978be62d1b9f8c797bdc35eff5136a9fd1ec": {
-    "thedao": 1.04278442
-  },
   "0x8d3272ebf8ba0f9d25d3fbce2888913cc5b3040b": {
-    "thedao": 0.41735557
-  },
-  "0x8da492019c40963cffd8a6d398d598eb50e5a71a": {
-    "thedao": 0.1
+    "thedao": 0.4173555716
   },
   "0x8d88813b69b2281751b4a988917bd53b33621a1b": {
-    "thedao": 0.01952381
+    "thedao": 0.019523809523809523
   },
   "0x8d9053435173ddcb5f0cc87b0f9dcca58d45d0a0": {
     "tokenstore": 1.255

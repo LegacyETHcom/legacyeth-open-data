@@ -6464,8 +6464,7 @@
           "name": "amazonwebservice"
         }
       ]
-    },
-    "thedao": 1.23809524
+    }
   },
   "0x17b23e0a30ef53f92926870de90aec4e3a6ff115": {
     "ens_old": {
@@ -13765,53 +13764,23 @@
   "0x177e60dd94c3839ab8baa557ea4d8cf7dc2d197c": {
     "tessera_sweep": 0.04150171
   },
-  "0x171b7c32ea6af2ad20fb5ed6f911cbaa84ac5a18": {
-    "thedao": 20.0
-  },
-  "0x1724bf98a361f961b3b59c4de8eb1a8fe5893e3d": {
-    "thedao": 16.0
-  },
-  "0x17c7d93a56f96a2e97ecbc848fa5c28c722153ef": {
-    "thedao": 12.0
-  },
-  "0x17f523f117bc9fe978aa481eb4f5561711371bc8": {
-    "thedao": 10.0
-  },
-  "0x178374b8e5640a10208f71eab6e352c2e1bea8ff": {
-    "thedao": 6.0
-  },
   "0x1777fca2ae98ea65d4760e7ae1f7474948950453": {
     "thedao": 4.47541313
-  },
-  "0x1773672a492f27bff41229c240b9dee48ecd62a0": {
-    "thedao": 4.0
-  },
-  "0x1775f697598081daa0ce45ab0ffe18d61e90de4e": {
-    "thedao": 3.2
-  },
-  "0x1736a6eb548dce32f4f514cc89968593beee7a93": {
-    "thedao": 2.42224469
-  },
-  "0x175872b5d3c15b4dec26f9718586591664f0ad08": {
-    "thedao": 1.27639779
-  },
-  "0x172453a0561cc29e36ca90af21904380fbd32d4a": {
-    "thedao": 1.0
   },
   "0x17f42462fc8caee83d43cea1f8ed3b3351fc6891": {
     "thedao": 0.1
   },
   "0x17e7765b4e7b35f403b7799ef4052f2ad14cf9b3": {
-    "thedao": 0.03327586
+    "thedao": 0.03327586206896552
   },
   "0x17dae4d46818339725758536e0996bf916ea39af": {
     "thedao": 0.00809818
   },
   "0x178184896743fa85665f0ca3c2e7146b5cdc3ddf": {
-    "thedao": 0.00583333
+    "thedao": 0.005833333333333333
   },
   "0x17b11649cfd4d5b434f306192e09593a8a1815ca": {
-    "thedao": 0.00292191
+    "thedao": 0.002921908629108002
   },
   "0x1702dd259da7b70ae8fc7c41221fade5431a7bb0": {
     "thedao": 0.00045

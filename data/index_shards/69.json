@@ -4526,8 +4526,7 @@
           "name": "probablecause"
         }
       ]
-    },
-    "thedao": 100.0
+    }
   },
   "0x696777da6a2de05ae409371a64ff5500b1e62854": {
     "ens_old": {
@@ -12296,7 +12295,7 @@
   },
   "0x69b41267d4809f31e737a8df832ff56384fa0219": {
     "singularx_fund": 0.0002933,
-    "thedao": 0.01
+    "thedao": 0.010000000159346012
   },
   "0x69647c59359e4d7e333c045a221d068ccf24aa36": {
     "singularx_fund": 0.00027217
@@ -12309,7 +12308,7 @@
   },
   "0x696937a1ff2574530868ad8d8c4d840e28ddf816": {
     "singularx_fund": 0.00019485,
-    "thedao": 1.23340399
+    "thedao": 1.2334039889
   },
   "0x69c6bb1021363bb52b02d34c006344db84b4678d": {
     "singularx_fund": 0.00016555
@@ -12400,29 +12399,8 @@
   "0x69194158d48fbf1e80df4b3f6449ad8c790a6841": {
     "thedao": 88.2
   },
-  "0x69653a30b25e0a2ce09c7d35303c7289ae882662": {
-    "thedao": 20.01892163
-  },
-  "0x69c84e5a66a6042d758f2ac5820e762742fadff2": {
-    "thedao": 9.0
-  },
-  "0x699d005123483742920dceeff62d69f9d6fd2d26": {
-    "thedao": 6.89543503
-  },
-  "0x694aa4d9e0181026d341ee0c8882670b3dcd6121": {
-    "thedao": 4.88381818
-  },
-  "0x699c3545f055c30cecce0f4be55ab325010cb2ff": {
-    "thedao": 2.0
-  },
   "0x694ba07477adcb7a7d9e07dc9f87baea20038bee": {
     "thedao": 1.0
-  },
-  "0x696a8e447b50661a94fa9b32f2122847425d0823": {
-    "thedao": 1.0
-  },
-  "0x69c0b05899fddcfb96450f94e84f0cf21dea5eca": {
-    "thedao": 0.1
   },
   "0x6950c12368a3e134cf31bba42aff2f8cec1096ee": {
     "thedao": 0.01135
@@ -12440,7 +12418,7 @@
     "thedao": 0.000482
   },
   "0x69aac3c6dbbf5b2e261fe7dd5fdf38604e6b4123": {
-    "thedao": 0.00019048
+    "thedao": 0.00019047619047619
   },
   "0x69a488e3d38a00e7aea54eefafae5c9798bd3fe0": {
     "tokemak_weth": 0.01502038

@@ -9882,29 +9882,8 @@
   "0x6f3761a0ba26274893d5a46e7b191285739d5a99": {
     "thedao": 499.995
   },
-  "0x6f274742d5123713f5bf862dafdb2750715eefbb": {
-    "thedao": 72.73504274
-  },
-  "0x6fa3794f19e51bf9a6ff2ceb301a94dbd3e56100": {
-    "thedao": 60.0
-  },
-  "0x6fc1f4da135b6e5b6fa22261eb07641d65e6107d": {
-    "thedao": 45.0
-  },
-  "0x6f94f173cac40c405313b710fb507a048d6d3ba2": {
-    "thedao": 28.3653072
-  },
-  "0x6fee5870b0d9bb14b0f04419f627657fa66100f9": {
-    "thedao": 10.0
-  },
-  "0x6f3bc9be3d1bab2ed3eca8de9d42abb86d687c10": {
-    "thedao": 8.19270719
-  },
-  "0x6f8053b43d505abc60f89c67f8feb74a5f8a546a": {
-    "thedao": 7.40740741
-  },
   "0x6f61f0a5fe93a6e1647eb985c6f689dd8a8769ac": {
-    "thedao": 5.16668835
+    "thedao": 5.16668834791591
   },
   "0x6f8839aee3f41a3ca6458bf5724bf030696bf9ba": {
     "thedao": 2.21
@@ -9912,38 +9891,26 @@
   "0x6fc53662371dca587b59850de78606e2359df383": {
     "thedao": 1.2
   },
-  "0x6f0e7d7320dddbfeee9abed0845fbcbe13273072": {
-    "thedao": 0.33793103
-  },
-  "0x6f4fbe6564a29a36ab6ca39472cf7c044d99c3d8": {
-    "thedao": 0.19882239
-  },
   "0x6f6704e5a10332af6672e50b3d9754dc460dfa4d": {
-    "thedao": 0.13343302
-  },
-  "0x6f1e9a5cd7fc7b44337353b91ab5399333690126": {
-    "thedao": 0.09090909
+    "thedao": 0.133433018
   },
   "0x6fcade9de3ab9a1e57eab1684cf30e2ceba234fb": {
-    "thedao": 0.07599225
+    "thedao": 0.075992254813117
   },
   "0x6ff52c979ee8bc8a1ebd84230eeb8f1f81c1a895": {
-    "thedao": 0.06318681
+    "thedao": 0.06318681318681318
   },
   "0x6fef53869428c9a93318e5e8bffa9855dd13df06": {
-    "thedao": 0.04917745
+    "thedao": 0.0491774491
   },
   "0x6f7b25ccbe64a2fb87f9afa97b3a65e4b9fbb9bf": {
     "thedao": 0.01
   },
   "0x6f9ff22044fdb35aca2be91da8a41cdd1f73fb9e": {
-    "thedao": 0.00740741
+    "thedao": 0.007407407407407407
   },
   "0x6fd59f624c362dadd3acdee334d800e0f1f744cf": {
     "thedao": 0.000135
-  },
-  "0x6f6c9311c6b490a72a9884efcf54900973c0bd05": {
-    "thedao": 8.997e-05
   },
   "0x6f76889bdcca9b96db9a4808cc5a7249a16e59c5": {
     "tokenstore": 1.053253001241

@@ -17102,8 +17102,7 @@
     }
   },
   "0x069e85d4f1010dd961897dc8c095fbb5ff297434": {
-    "pickle_staking": 0.010045,
-    "thedao": 0.00713409
+    "pickle_staking": 0.010045
   },
   "0x06d6c31b2d002d0d7b034e8ed648b995a37a9fca": {
     "pooh": 0.024194719275905503,
@@ -17526,21 +17525,8 @@
   "0x06d9e6b8cbab0d113a9369e4128d90ef0dbb789d": {
     "switcheo_v2": 6.5149414441e-08
   },
-  "0x06b6999f2c90b8f6722b9c0e8555e1f7bc2f96a5": {
-    "thedao": 187.0
-  },
-  "0x06247873ed8f34620540d2e99268d09cee243784": {
-    "thedao": 165.11
-  },
-  "0x06234dab9ba9c857ccea13fb3a9a1fd215d93e24": {
-    "thedao": 103.192
-  },
   "0x06078d50542cd0004b67d1e6802c5bb33da736da": {
-    "thedao": {
-      "e": 20.0,
-      "p": true,
-      "pr": "unverified_contract"
-    }
+    "thedao": 20.0
   },
   "0x06fe134c8dbb041c0bb992abcd050dd16ffd4dff": {
     "thedao": 19.9699
@@ -17548,20 +17534,14 @@
   "0x06b5b3aaf7519c8de832fac6b9e5fcb8f8038cd9": {
     "thedao": 9.99998866
   },
-  "0x064301988f49dad6f02401329d78aac2bb5fb1c3": {
-    "thedao": 4.9986498
-  },
   "0x06fec77de024ee784248b67cd9ab05c6d7b6a29e": {
     "thedao": 0.2853647
-  },
-  "0x06c4b04d9fc47c1bb85c7e01b57cc03ea9d4f8a5": {
-    "thedao": 0.16666667
   },
   "0x063e7eb89b4e39979b031b39803c996a57347e26": {
     "thedao": 0.12
   },
   "0x06b671106bf4de59243111c0fece9f43da91595f": {
-    "thedao": 0.02273924
+    "thedao": 0.022739239100002
   },
   "0x0655d1ecdb1c649e6c029f14d033c56b8eae86ea": {
     "thedao": 0.019
@@ -17571,9 +17551,6 @@
   },
   "0x065b1ef5fa95985e996b236917f632cb21472ad9": {
     "thedao": 0.01
-  },
-  "0x061900a30fb8e72cbdf06cef702f6ef6b6a5d9f0": {
-    "thedao": 1.477e-05
   },
   "0x06c8270541b2fb47a987b129a2eeea44287f70fe": {
     "tokemak_weth": 0.00515393
@@ -18676,5 +18653,8 @@
   },
   "0x06fd663df77794d45e4e457b47f66805693aaa32": {
     "zethr_main": "1.557640099081726293"
+  },
+  "0x0698a6229fff6b82bee731056ca01c298d8eff4d": {
+    "thedao": 334.8816
   }
 }

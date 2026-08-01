@@ -51,8 +51,7 @@
       "e": 0.000776347080676226,
       "tbw": "12999000000"
     },
-    "singularx_fund": 0.00222774,
-    "thedao": 0.14975547
+    "singularx_fund": 0.00222774
   },
   "0x144b2ae44f32069a703214dfab5d4a4d91597803": {
     "arbitrage_eth_staking": 7.4928709079646e-05,
@@ -11771,44 +11770,14 @@
   "0x148263e2b9cae6d6990c5b83153324308adca723": {
     "thedao": 343.38
   },
-  "0x1466cf205c87bf1abe39b0c92702d589a0e61a9d": {
-    "thedao": 139.04347826
-  },
-  "0x14f73727755dc36b25e3c77e33e551cc0ff19456": {
-    "thedao": 50.0
-  },
-  "0x14e5d934c910792b43822ad5197331067b6c5b00": {
-    "thedao": 40.0
-  },
-  "0x14f38aa4c58a81f6327d9e33d5b49c19531046df": {
-    "thedao": 27.00163
-  },
   "0x14a6ad3b11878a15fbe8298cc249cab5f34f2bad": {
     "thedao": 15.0
-  },
-  "0x14dbd3aa690f8984e381f6082a3b0eb133e97f1f": {
-    "thedao": 12.66333333
-  },
-  "0x14b9e5dbfde76cc6f3c0aabc6d1f0b1583166877": {
-    "thedao": 8.70434783
-  },
-  "0x148fbd304aade01585a550415c992359be300b7a": {
-    "thedao": 7.69230769
   },
   "0x1489bcb16a35b5c1911e710e53e81a1385e742db": {
     "thedao": 3.182
   },
-  "0x14089ade0b51ff0cbf58cf1319170b5067196ba0": {
-    "thedao": 0.94105473
-  },
-  "0x140fb9861ad183ede807c0822f62b62bc4ec37b2": {
-    "thedao": 0.170399
-  },
   "0x14a14221313a0fae48552a0e2d67121462a7fff7": {
-    "thedao": 0.14581139
-  },
-  "0x140316aa86f40fe011bc073162ffc0bbbae47c58": {
-    "thedao": 0.1
+    "thedao": 0.145811389800859
   },
   "0x147358df1d65e94b2c328b9fbbb59da691547dd9": {
     "thedao": 0.001

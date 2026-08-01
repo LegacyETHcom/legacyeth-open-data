@@ -673,7 +673,7 @@
   },
   "0x16ec8a7f9d21ea94be12d4765ad2e5597f82c9fe": {
     "cofi": 0.018131,
-    "thedao": 0.08561908,
+    "thedao": 0.08561907577504416,
     "tweetmarket": {
       "e": 0.01230315,
       "tmb": [
@@ -9630,47 +9630,14 @@
   "0x16ce3ed19ee6ab2434fca60735cdb8ae7a268401": {
     "tessera_zcat": 2.08486695
   },
-  "0x16bf8405e7ee848c7b05770c74eec14e0be1bc61": {
-    "thedao": 194.0
-  },
-  "0x16a533930b1ac1d6ffcb2c546c86b725a6f37b07": {
-    "thedao": 145.400121
-  },
-  "0x16940d41e1b338efae4f785ae85aee3c065ba1f0": {
-    "thedao": 13.32558829
-  },
-  "0x1669534483b341300fc900faa5619e7b202d6bd3": {
-    "thedao": 11.06504922
-  },
-  "0x16527ffa5d3c8b23b706709abe274e25cf53a78a": {
-    "thedao": 10.0
-  },
-  "0x165e86afc86d63efcb9f0364da1a57d8cc2838c3": {
-    "thedao": 8.19952369
-  },
-  "0x163cbc4f6bba645710ef57c51882921bd6eda40f": {
-    "thedao": 6.234
-  },
   "0x16f557ba0ac21d404972f3336b15e797ec5515f1": {
-    "thedao": 3.30646179
+    "thedao": 3.306461794
   },
   "0x16f43f6fdc72feef3c774e7b17aa8898b2b54998": {
     "thedao": 2.0
   },
-  "0x16d90f1eb2a12372efb22d027718e99022a523e1": {
-    "thedao": 1.0
-  },
   "0x16d726c9522f2139312668d6b0d667f82ba5a5d5": {
     "thedao": 0.9999
-  },
-  "0x16893d353d51895212b009726dbf1570053bc40c": {
-    "thedao": 0.971358
-  },
-  "0x1681d5db2543ec2e4da523372b46d2651b9c45ce": {
-    "thedao": 0.86666667
-  },
-  "0x16912aaa8802999a27fb495a99b8a3b596ce4e16": {
-    "thedao": 0.11046738
   },
   "0x16ec14546a9d449d8c08c1d9cd501e86a3cea79a": {
     "thedao": 0.1
@@ -9682,10 +9649,10 @@
     "thedao": 0.01
   },
   "0x167e2a783823ab362a592c9dce79c774c2bdad6f": {
-    "thedao": 0.00760227
+    "thedao": 0.007602273038
   },
   "0x16dc5fb75aa40328834b5a65964bb8173b097505": {
-    "thedao": 0.00291005
+    "thedao": 0.002910052910052909
   },
   "0x1689b7bb784f4f78a01e41ccd0e308c7040ead09": {
     "thedao": 0.000135

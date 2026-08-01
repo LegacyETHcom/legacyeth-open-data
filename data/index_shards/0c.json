@@ -2421,8 +2421,7 @@
           "name": "wuzhifang"
         }
       ]
-    },
-    "thedao": 2.1e-05
+    }
   },
   "0x0c7c409c63f2abc7c474b000ee80c2eea30fe05c": {
     "ens_old": {
@@ -9148,47 +9147,23 @@
   "0x0c11918fc950cc8d6fc1fd217a5a827a2a1c8a00": {
     "tessera_zcat": 1.4e-07
   },
-  "0x0c27bed0a1c40adec560e7da0d6354d0829cddf3": {
-    "thedao": 10.64
-  },
-  "0x0c0047b648a4cf7aa21582ac5175fe340701f57c": {
-    "thedao": 8.45
-  },
   "0x0c55ee716f36806b913763259301457af2474107": {
     "thedao": 5.0
   },
-  "0x0c7deb798fad05d5d467fb9163d3a4108f0c7504": {
-    "thedao": 4.5
-  },
   "0x0cec55ac3f95227025fc4635547d501bf763d086": {
-    "thedao": 3.32590243
-  },
-  "0x0c8cf1a231fd4272d0c048be7004885b2a5c2465": {
-    "thedao": 2.52465063
-  },
-  "0x0c0933de2928eb748c950fb3696a376f09def036": {
-    "thedao": 1.95
+    "thedao": 3.3259024323000004
   },
   "0x0c8a38eae29b0c2d0df89223e20d13493c21a0c3": {
     "thedao": 1.0
   },
   "0x0c6eb0d40f3cc721e7f00c592a13c4b0e4ee930d": {
-    "thedao": 0.32945689
-  },
-  "0x0ca63df7e17f62a5f9dc764315b5fb975406349c": {
-    "thedao": 0.25781336
+    "thedao": 0.3294568931
   },
   "0x0cd84bcca74fc3bbe636df8610292197faa095aa": {
-    "thedao": 0.24069662
+    "thedao": 0.24069662000000003
   },
   "0x0c4451461bbb2897cdccfe22018baf9a9a607777": {
     "thedao": 0.000135
-  },
-  "0x0cab3787d1555829eb7ba3000836d3bbeadf0304": {
-    "thedao": 8.47e-05
-  },
-  "0x0c59ac60a8dacc42d113ae2828d4dd849ff50612": {
-    "thedao": 4.074e-05
   },
   "0x0c7b2316a83115b8de6b6f1154fc37c6f52f4ee5": {
     "tokemak_weth": 5.0

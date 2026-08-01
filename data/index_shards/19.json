@@ -11249,51 +11249,27 @@
   "0x1946ff04f2120f0b46f750bc97bb8817d60b3a88": {
     "th_token_sale": 0.21
   },
-  "0x19732bf973055dbd91a4533adaa2149a91d38380": {
-    "thedao": 200.0
-  },
   "0x19c842f8796dad828a9ca33664abf28e48ef131d": {
-    "thedao": 117.10806155
-  },
-  "0x19592c3dbe18d336013bb66a92d69670b6c34bb9": {
-    "thedao": 26.08695652
-  },
-  "0x19afbe525ce774615be8a33498783679cfe94f91": {
-    "thedao": 19.40600407
-  },
-  "0x19a10ec8e2468ef5fc432e55098b5359a468538f": {
-    "thedao": 11.0
-  },
-  "0x193ac65183651800e23580f8f0ead3bb597eb8a4": {
-    "thedao": 10.0
+    "thedao": 117.10806154806667
   },
   "0x1996dced3ae06d5d8dde341c516d3166d07866e1": {
     "thedao": 6.66
   },
-  "0x19faa82e6d516acb38f31d04bfc24066f5dd5ee5": {
-    "thedao": 0.86956522
-  },
   "0x197567e9eb4a10c157b17a482616131a1dc69c1c": {
-    "thedao": 0.66666667
+    "thedao": 0.6666666666666666
   },
   "0x191ca4072b909d66f4d1a0d44e0158092ccebb26": {
-    "thedao": 0.5295785
+    "thedao": 0.5295784968
   },
   "0x192858188b9654249f4e147987a1fae3893bae77": {
-    "thedao": 0.25751467,
+    "thedao": 0.2575146727,
     "tokenstore": 0.001057324599
   },
   "0x19f9db370cdb6cdd7f018284eced667c757e5b0b": {
-    "thedao": 0.15716643
-  },
-  "0x1914ab4d3c8497377ac0856c09a7296a60aa6a8c": {
-    "thedao": 0.1
-  },
-  "0x199a29d70d8ef1cd316461baa6404ace418116d1": {
-    "thedao": 0.1
+    "thedao": 0.1571664275466284
   },
   "0x195b3d7d6c38d379ed38b1db7ad3ff948d201b6f": {
-    "thedao": 0.05462815
+    "thedao": 0.05462814639999577
   },
   "0x19a47aa3713acf9da45008f12b8b78a5d4da483a": {
     "thedao": 0.0499
@@ -11301,14 +11277,11 @@
   "0x1949f355a4edfa7b21d5f9440a823555bbd1ef4c": {
     "thedao": 0.0199
   },
-  "0x19c99ec2f383a9399f215ca578ed975f710752c0": {
-    "thedao": 0.01665371
-  },
   "0x199f8d578d9a876ab997756cbd138e0da1d357fa": {
-    "thedao": 0.00451429
+    "thedao": 0.004514285714285713
   },
   "0x193c5aceb2760444821a9e949aeb3a17367abf4e": {
-    "thedao": 0.00097578
+    "thedao": 0.000975783103467555
   },
   "0x19166c06a5385606b7d5f75862267a51af7ded7f": {
     "tokemak_weth": {
