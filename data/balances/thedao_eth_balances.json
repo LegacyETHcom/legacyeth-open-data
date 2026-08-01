@@ -1,8 +1,8 @@
 {
   "contract": "0xbb9bc244d798123fde783fcc1c72d3bb8c189413",
   "balance_source": "production_wallet_positions",
-  "contract_eth_balance": 81504.3783,
-  "total_eth_in_balances": 81504.3783,
+  "contract_eth_balance": 53985.78054976212,
+  "total_eth_in_balances": 53985.78054976212,
   "addresses_with_balance": 2586,
   "coverage_pct": 100.0,
   "scan_date": "2026-08-01 15:12:06 UTC",
